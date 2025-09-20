@@ -129,5 +129,16 @@ Your API is already deployed here:
 
 ## 📂 Repository structure
 
-This repo contains both the **API** (FastAPI app) and supporting resources for ETL + dashboards.
+This repository contains the FastAPI app along with the supporting resources for data ingestion (ETL), AI-based mapping, and dashboards.
 
+1. Data → Raw and processed input datasets
+
+2. Emission Factor Data flows/1ADEME → Reference datasets for emission factors (e.g., ADEME)
+
+3. AI Mapping → Scripts and models for automated mapping & semantic matching
+
+4. FastAPI → API backend to serve data and models
+
+5. Dashboards → Visualization layer (Power BI, Streamlit, or other BI tools)
+
+README.md → Documentation and usage guide
