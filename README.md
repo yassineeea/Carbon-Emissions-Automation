@@ -4,12 +4,9 @@
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen.svg)](#api)
 [![Hugging Face Spaces](https://img.shields.io/badge/HF-Spaces-orange.svg)](https://yassine123z-emissionfactor-mapper2.hf.space/)
 
-> End-to-end pipeline that converts raw transaction & invoice data into activity-based CO₂e estimates using:
-> - emission factor consolidation (ADEME / EXIOBASE / Climatiq, etc.)
-> - data standardization (Power Query / Microsoft Fabric)
-> - NLP-powered matching (Hugging Face + fine-tuning)
-> - a lightweight FastAPI microservice
-> - Power BI dashboards for exploration & reporting
+
+> End-to-end pipeline that converts raw transaction and invoice data into activity-based CO₂e estimates.  
+> Combines emission factor consolidation, NLP-powered matching, a FastAPI microservice, and Power BI dashboards for exploration & reporting.
 
 ---
 
