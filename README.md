@@ -19,7 +19,6 @@
 - [Emission factors data sources](#Emission-factors-data-sources)
 - [Repository structure](#repository-structure)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
