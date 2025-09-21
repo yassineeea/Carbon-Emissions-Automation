@@ -163,7 +163,7 @@ This repository contains the FastAPI app along with the supporting resources for
 
 4. FastAPI → API backend to serve data and models
 
-5. Dashboards → Visualization layer (Power BI, Streamlit, or other BI tools)
+5. Images → Dashboards (Power BI) & explanation screenshots
 
    README.md → Documentation and usage guide
 
