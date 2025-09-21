@@ -93,7 +93,8 @@ The pipeline automates CO₂e estimation in five layers, turning messy invoice/t
    - Apply unit conversions automatically (e.g., liters ↔ MJ ↔ kgCO₂e).  
    - Visualize results in dashboards: KPIs, supplier/category trends, audit trail, and full traceability to the original invoice line.  
 
-    
+---
+
 ## 📷 Demo / Screenshots  
 
 The prototype includes dashboards that illustrate the full workflow — from factor preparation to AI-assisted mapping and final emissions insights:  
@@ -157,7 +158,7 @@ This repository contains the FastAPI app along with the supporting resources for
    README.md → Documentation and usage guide
 
 
-
+---
 
 <!-- CONTACT -->
 ## Contact
