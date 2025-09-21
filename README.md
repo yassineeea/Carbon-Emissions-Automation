@@ -110,15 +110,15 @@ The pipeline automates CO₂e estimation in five layers, turning messy invoice/t
 The prototype includes dashboards that illustrate the full workflow — from factor preparation to AI-assisted mapping and final emissions insights:  
 
 - **Emission Factor Management**  
-  ![Power BI Dashboard](5.%20Dashboards/EMFA.png)  
+  ![Power BI Dashboard](5.%20Images/EMFA.png)  
   *View and validate emission factors before and after cleaning/standardization. Ensures unit consistency, metadata alignment, and quality across sources.*  
 
 - **Matching Review Dashboard**  
-  ![Power BI Dashboard](5.%20Dashboards/Review-Match-Dashboard.png)  
+  ![Power BI Dashboard](5.%20Images/Review-Match-Dashboard.png)  
   *AI models accelerate transaction-to-factor mapping, but human review remains essential. This dashboard highlights low-confidence matches and makes corrections fast and transparent.*  
 
 - **Emissions Overview**  
-  ![Power BI Dashboard](5.%20Dashboards/Emissions-Overview-Dashboard.png)  
+  ![Power BI Dashboard](5.%20Images/Emissions-Overview-Dashboard.png)  
   *Aggregate all processed transactions into clear KPIs and trends. Drill down by supplier, category, or time period, with full traceability back to each invoice line.*  
 
 
