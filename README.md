@@ -143,7 +143,10 @@ I built and deployed a **FastAPI microservice** that maps raw client text (from 
 
 - Open the `/docs` (Swagger UI) page to send test queries directly. 
 
-✔️ **Example response:**  {
+✔️ **Example response:**
+
+```json
+{
   "matches": [
     {
       "input_text": "car use",
