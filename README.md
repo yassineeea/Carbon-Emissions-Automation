@@ -69,7 +69,10 @@ The pipeline automates CO₂e estimation in five layers, turning messy invoice/t
    - Use APIs + Power Query Dataflows to keep data updated.  
    - Clean, standardize, and unify these into a single emission factor database.  
 
-  ![Power BI Dashboard](5.%20Images/EmissionFactor_collection.png)  
+
+<p align="center">
+  <img src="5.%20Images/EmissionFactor_collection.png" width="800"/>
+</p>
 
 
 3. **Category Structure Table**  
