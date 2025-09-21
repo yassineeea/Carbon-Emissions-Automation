@@ -73,15 +73,19 @@ The pipeline automates CO₂e estimation in five layers, turning messy invoice/t
    - Define a structured table of categories (Category 1, Category 2, etc.) at the level of detail required.  
    - Map these categories to **GHG Protocol categories**, **ISO codes**, and **emission scopes (1, 2, 3)**.  
 
-![Pipeline Demo](GIF_TableStructure.gif)
+  ![Power BI Dashboard](5.%20Images/table_structure.png)  
 
 4. **Emission Factor Alignment**  
    - Link the structured category table to the emission factor database.  
    - Result: a harmonized emission factor table aligned with standards and ready for matching.  
 
+  ![Power BI Dashboard](5.%20Images/EmissionFactor_Structure.png)  
+
 5. **AI & NLP Matching**  
    - Map client transactions to emission factors using embeddings (Sentence Transformers).  
    - Match based on semantic similarity between client descriptions and factor categories.  
+
+  ![Power BI Dashboard](5.%20Images/NLP_mapping.png)  
 
 6. **Human-in-the-Loop Review**  
    - Use a dedicated Power BI dashboard to review low-confidence matches.  
