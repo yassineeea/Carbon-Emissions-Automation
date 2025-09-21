@@ -156,7 +156,7 @@ I built and deployed a **FastAPI microservice** that maps raw client text (from 
     }
   ]
 }
-
+```
 ---
 
 ## 🌐 Emission factors data sources  
