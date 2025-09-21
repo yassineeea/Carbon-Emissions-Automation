@@ -14,7 +14,7 @@
 - [Project Overview](#project-overview)
 - [Why this project matters](#why-this-project-matters)
 - [Tech Stack](#tech-stack) 
-- [How the automation logic works)](#How-the-automation-logic-works)
+- [How the automation logic works](#How-the-automation-logic-works)
 - [Demo / Screenshots](#demo--screenshots)
 - [Emission factors data sources](#Emission-factors-data-sources)
 - [Repository structure](#repository-structure)
