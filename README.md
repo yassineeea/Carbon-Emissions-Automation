@@ -157,6 +157,8 @@ I built and deployed a **FastAPI microservice** that maps raw client text (from 
   ]
 }
 ```
+These mapped categories are then linked to emission factors (ADEME, DEFRA, EXIOBASE, Climatiq) and aggregated in dashboards for Scope 3 emissions reporting.
+
 ---
 
 ## 🌐 Emission factors data sources  
