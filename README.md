@@ -129,8 +129,15 @@ The prototype includes dashboards that illustrate the full workflow — from fac
 
 ## 🚀 Live Demo
 
-Your API is already deployed here:  
-👉 [Emission Factor Mapper API (FastAPI on Hugging Face Spaces)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
+I built and deployed a FastAPI microservice that maps raw client text (from invoices, expenses, or transactions) to a structured activity category.
+
+🔎 What it does:
+
+Input: Free-text description of a transaction (“car use”, “hotel booking”, “IT equipment purchase”).
+
+Output: Best-matching categories (Cat1, Cat2, …) with a similarity score, ready to be aligned with emission factors.
+
+🌐 Try it live: 👉 [Emission Factor Mapper API (FastAPI on Hugging Face Spaces)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
 
 ---
 
