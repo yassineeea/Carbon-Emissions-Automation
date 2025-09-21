@@ -73,7 +73,7 @@ The pipeline automates CO₂e estimation in five layers, turning messy invoice/t
    - Define a structured table of categories (Category 1, Category 2, etc.) at the level of detail required.  
    - Map these categories to **GHG Protocol categories**, **ISO codes**, and **emission scopes (1, 2, 3)**.  
 
-  ![Power BI Dashboard](5.%20Images/table_structure.png)  
+<img src="5.%20Images/table_structure.png" alt="Power BI Dashboard" width="600"/>
 
 4. **Emission Factor Alignment**  
    - Link the structured category table to the emission factor database.  
