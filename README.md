@@ -170,13 +170,10 @@ This repository contains the FastAPI app along with the supporting resources for
 
 ---
 
-<!-- CONTACT -->
-## Contact
-
-Yassine Zamit - [linkedin-url]: https://linkedin.com/in/yassine-zamit/ - yassine.zamit@etudiant-enit.utm.tn
-
-Project Link: [https://github.com/yassineeea/Carbon-Emissions-Automation](https://github.com/yassineeea/Carbon-Emissions-Automation)
-
+**Author:** Yassine Zamit  
+📧 yassine.zamit@etudiant-enit.utm.tn  
+🔗 [LinkedIn](https://linkedin.com/in/yassine-zamit)  
+📂 [GitHub Repository](https://github.com/yassineeea/Carbon-Emissions-Automation)  
 
 
 
