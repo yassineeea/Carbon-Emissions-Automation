@@ -16,8 +16,8 @@
 - [Tech Stack](#tech-stack) 
 - [How the automation logic works)](#How-the-automation-logic-works)
 - [Demo / Screenshots](#demo--screenshots)
-- [Repository structure](#repository-structure)
 - [Emission factors data sources](#Emission-factors-data-sources)
+- [Repository structure](#repository-structure)
 - [Contact](#contact)
 - [License](#license)
 
@@ -117,6 +117,25 @@ The prototype includes dashboards that illustrate the full workflow — from fac
 
 Your API is already deployed here:  
 👉 [Emission Factor Mapper API (FastAPI on Hugging Face Spaces)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
+
+---
+
+## 🌐 Emission factors data sources  
+
+The pipeline consolidates emission factors from **multiple international and open databases** to ensure coverage and comparability:  
+
+- [**ADEME (Base Carbone, France)**](https://data.ademe.fr/datasets/base-carbone) → widely used in Europe for corporate carbon reporting.  
+- [**EXIOBASE**](https://www.exiobase.eu/) → multi-regional input–output database, useful for Scope 3 and supply chain analysis.  
+- [**DEFRA (UK Government Factors)**](https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting) → official factors for energy, transport, and procurement categories.  
+- [**Climatiq API**](https://www.climatiq.io/) → programmatic access to curated emission factors from multiple sources.  
+- **Other optional sources:** [Ecoinvent](https://ecoinvent.org/), [EPA (US)](https://www.epa.gov/climateleadership/ghg-emission-factors-hub), or company-specific databases (can be integrated into the workflow).  
+
+All factors are **cleaned, standardized, and aligned** to:  
+- **GHG Protocol categories**  
+- **ISO standards**  
+- **Scopes 1, 2, and 3**  
+
+This ensures interoperability across reporting frameworks and compatibility with audit requirements.  
 
 
 ---
