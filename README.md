@@ -1,7 +1,6 @@
 # 🌍 Carbon Emissions Automation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen.svg)](#api)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen.svg)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
 [![Hugging Face Spaces](https://img.shields.io/badge/HF-Spaces-orange.svg)](https://yassine123z-emissionfactor-mapper2.hf.space/)
 
 
