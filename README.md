@@ -137,3 +137,31 @@ This repository contains the FastAPI app along with the supporting resources for
 5. Dashboards → Visualization layer (Power BI, Streamlit, or other BI tools)
 
 README.md → Documentation and usage guide
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Yassine Zamit - [linkedin-url]: https://linkedin.com/in/yassine-zamit/ - yassine.zamit@etudiant-enit.utm.tn
+
+Project Link: [https://github.com/yassineeea/Carbon-Emissions-Automation](https://github.com/yassineeea/Carbon-Emissions-Automation)
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
